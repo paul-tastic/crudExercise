@@ -1,0 +1,10 @@
+insert into users (id, username, first_name, last_name, password, modified_at) values (1, 'bsussex0', 'Barbi', 'Sussex', 'oVoOykX', '2020-04-05 10:24:56');
+insert into users (id, username, first_name, last_name, password, modified_at) values (2, 'pgrahamslaw1', 'Peadar', 'Grahamslaw', 'hMNBZOI', '2019-08-28 11:28:22');
+insert into users (id, username, first_name, last_name, password, modified_at) values (3, 'dbette2', 'Danika', 'Bette', 'UqW6Dz1', '2019-08-27 11:56:48');
+insert into users (id, username, first_name, last_name, password, modified_at) values (4, 'imcphelimy3', 'Inigo', 'McPhelimy', 'WrUH9IzslVpl', '2019-12-09 09:34:45');
+insert into users (id, username, first_name, last_name, password, modified_at) values (5, 'vlillford4', 'Viviana', 'Lillford', 'bHrhcH', '2019-08-20 20:35:58');
+insert into users (id, username, first_name, last_name, password, modified_at) values (6, 'dmeaking5', 'Dulce', 'Meaking', 'EiFwJTM', '2020-02-18 22:43:52');
+insert into users (id, username, first_name, last_name, password, modified_at) values (7, 'hryles6', 'Hansiain', 'Ryles', 'i7Hu1fpCkXWZ', '2020-02-02 08:56:31');
+insert into users (id, username, first_name, last_name, password, modified_at) values (8, 'apetofi7', 'Ardelia', 'Petofi', 'OuSztKWgZ', '2020-03-09 12:55:35');
+insert into users (id, username, first_name, last_name, password, modified_at) values (9, 'mbasile8', 'Marcello', 'Basile', 'Xmwzqts', '2019-09-29 01:16:02');
+insert into users (id, username, first_name, last_name, password, modified_at) values (10, 'bcritchard9', 'Blakelee', 'Critchard', '50E4ip', '2019-06-07 01:02:09');
